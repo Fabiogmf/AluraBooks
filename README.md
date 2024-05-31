@@ -34,7 +34,7 @@ Este projeto é composto por um único arquivo HTML, complementado por arquivos 
 A interface do Alura Books foi projetada para ser totalmente responsiva. Isso significa que o layout se ajusta automaticamente para fornecer uma experiência de usuário otimizada em diversos tamanhos de tela, desde smartphones e tablets até monitores de desktop.
 
 ## Deploy
-Você pode acessar o site do Alura Books através deste [link](#).
+Você pode acessar o site do Alura Books através deste [link](https://alura-books-psi-topaz.vercel.app/).
 
 ## Contato
 Este projeto é um trabalho em andamento e faz parte da minha formação como desenvolvedor. Se você tiver sugestões ou quiser entrar em contato, pode me encontrar em:
