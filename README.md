@@ -1,8 +1,8 @@
 # Alura Books
 
-![Alura Books Banner](./site.PNG)
-
 Bem-vindo ao repositório do Alura Books! Este projeto é uma vitrine de livros online inspirada na plataforma de cursos Alura. Aqui você encontrará uma interface interativa para explorar, pesquisar e conhecer os lançamentos e best-sellers da biblioteca.
+
+![Alura Books Banner](./site.PNG)
 
 ## Índice
 1. [Descrição](#descrição)
